@@ -1,5 +1,5 @@
 # NBA-Season-Feature-Importance-Project
-Personal Project to see how different features contribute to an NBA team's winning percentage
+Personal Project to see how different features contribute to an NBA team's winning percentage.
 
 Jupyter Notebooks were used to create machine learning models for each NBA season to see how different features contribute to an NBA team's winning percentage in each respective season. The machine learning models were then dumped into their respective joblib files.
 
